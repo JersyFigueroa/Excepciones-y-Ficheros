@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Ejercicio4 {
+public class a04 {
 
     public static void main(String[] args) {
         BufferedReader br = null;
